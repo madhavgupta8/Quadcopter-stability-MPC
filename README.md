@@ -9,3 +9,11 @@ implemented on the quadrotor using MATLAB Model Predictive Control Toolbox.
 Wind disturbance is introduced and evaluated in various cases. Parameter tuning is
 done using a grid search method. The paper also evaluated the effectiveness of MPC
 as a controller on a Quadrotor
+
+## Usage
+
+Open file NLMPC_demo.m and run it using MATLAB
+
+### Try
+
+Change Vx and Vy for different use cases
